@@ -26,7 +26,7 @@ Thorough exploratory data analysis (EDA) was conducted to uncover missing values
 
 ## Model Development and Evaluation
 • 5 Machine Learning models-Random Forest,KNN CLassifier,Logistic Regression, Lasso and Ridge were 
-trained and evaluated.
+trained and evaluated. <br>
 • Random Forest achieved the highest accuracy (85.6%) in predicting churn, followed by KNN Classifier
-(81.2%), Logistic Regression (80.77%), Ridge (80.77%) and Lasso (80.83%)
-• Feature importance analysis highlighted age, account balance, number of products owned,credit score as influential factors in predicting churn.
+(81.2%), Logistic Regression (80.77%), Ridge (80.77%) and Lasso (80.83%) <br>
+• Feature importance analysis highlighted age, account balance, number of products owned,credit score as influential factors in predicting churn. <br>
