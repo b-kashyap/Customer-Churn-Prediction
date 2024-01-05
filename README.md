@@ -12,3 +12,4 @@ merged based on a shared customer ID, resulting in a consolidated dataset named 
 comprehensive dataset amalgamates customer profiles and their corresponding credit card information, providing 
 a structured foundation for streamlined analysis or predictive modeling, especially in banking scenarios for churn 
 prediction.
+## 
