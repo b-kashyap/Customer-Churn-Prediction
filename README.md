@@ -1,5 +1,8 @@
 ## Overview
 This study investigates the predictive analysis of bank customer churn to enhance retention strategies and mitigate revenue loss. The increasing significance of customer retention in the banking sector prompted an exploration into predictive modeling techniques to anticipate customer churn behavior. Leveraging historical customer data and employing advanced machine learning algorithms, this analysis focused on identifying crucial factors influencing churn and building accurate predictive models.
+![image](https://github.com/b-kashyap/Customer-Churn-Prediction/assets/155677382/97a5b8a0-24ee-4473-b541-63acb05d483a)
+
+
 ## Dataset Overview
 The data required for the predictive analysis was obtained from Kaggle. Initially, the dataset comprised specific 
 columns: customer_id, credit_score, country, gender, age, tenure, balance, products_number, credit_card, 
