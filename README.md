@@ -20,3 +20,13 @@ prediction.
 5. sqlite3 : Python interface for SQLite, a lightweight disk-based database <br>
 6. csv : Module providing classes for reading and writing CSV files <br>
 7. warnings : Provides functions to handle warnings <br>
+
+## Exploratory Data Analysis
+Thorough exploratory data analysis (EDA) was conducted to uncover missing values, outliers, and potential data inconsistencies. Additionally, correlation analysis was performed to ascertain the connections between variables and churn behavior.Univariate and bivariate analyses were employed to extract valuable insights aimed at customer retention strategies. 
+
+## Model Development and Evaluation
+• 5 Machine Learning models-Random Forest,KNN CLassifier,Logistic Regression, Lasso and Ridge were 
+trained and evaluated.
+• Random Forest achieved the highest accuracy (85.6%) in predicting churn, followed by KNN Classifier
+(81.2%), Logistic Regression (80.77%), Ridge (80.77%) and Lasso (80.83%)
+• Feature importance analysis highlighted age, account balance, number of products owned,credit score as influential factors in predicting churn.
