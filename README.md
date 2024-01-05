@@ -12,4 +12,11 @@ merged based on a shared customer ID, resulting in a consolidated dataset named 
 comprehensive dataset amalgamates customer profiles and their corresponding credit card information, providing 
 a structured foundation for streamlined analysis or predictive modeling, especially in banking scenarios for churn 
 prediction.
-## 
+## Technologies and Libraries Used
+1. Programming Language - Python <br>
+2. pandas : For Data manipulation and analysis <br>
+3. matplotlib : Plotting library for creating visualizations <br>
+4. seaborn : Data visualization library based on matplotlib, for statistical graphics <br>
+5. sqlite3 : Python interface for SQLite, a lightweight disk-based database <br>
+6. csv : Module providing classes for reading and writing CSV files <br>
+7. warnings : Provides functions to handle warnings <br>
